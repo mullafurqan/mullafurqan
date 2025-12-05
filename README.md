@@ -1,28 +1,25 @@
-<h1 align="center">Hi 👋, I'm Furqan Mulla</h1>
-<h3 align="center">DevOps & Cloud enthusiast | CSE undergrad from VTU</h3>
+<h1 align="center">Hi there, I'm John 👋</h1>
+<div align="center">
+<p>I’m a Computer Science Engineering undergrad from India, deeply interested in DevOps and Cloud technologies. I’ve completed hands-on learning in Linux and Git, and I’m currently exploring Docker, Kubernetes, Jenkins, CI/CD pipelines, and AWS cloud services.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mullafurqan&label=Profile%20views&color=0e75b6&style=flat" alt="mullafurqan" /> </p>
+<p>I enjoy deploying applications, automating workflows, containerization, and building scalable infrastructure. I’m currently working on my DevOpsX 2.0 major project, where I aim to implement a complete production-grade CI/CD pipeline.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullafurqan" alt="mullafurqan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on ****DevOpsX 2.0**, a complete DevOps CI/CD pipeline project**
-
-- 🌱 I’m currently learning ****DevOps, AWS Cloud, Linux, Docker, Jenkins, Kubernetes & Git****
-
-- 📫 How to reach me **mullafurqan89@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/furqan-mulla-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furqan-mulla-" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mullafurqan&show_icons=true&locale=en&layout=compact" alt="mullafurqan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mullafurqan&show_icons=true&locale=en" alt="mullafurqan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mullafurqan&" alt="mullafurqan" /></p>
+<p>I love engineering solutions, learning deeply, and continuously improving myself as I grow on my journey toward becoming a DevOps and Cloud Engineer.</p>
+</div>
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;</div>
+<h2 align="center">🛠 My Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullafurqan&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">🔗 LinkedIn: <a href="https://linkedin.com/in/furqan-mulla-" target="_blank">Furqan Mulla</a></p>
