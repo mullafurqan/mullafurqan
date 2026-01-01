@@ -67,7 +67,7 @@
 ## 🤝 Let's Connect
 
 - 🔗 GitHub: https://github.com/mullafurqan  
-- 💼 LinkedIn: (add your LinkedIn profile link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/furqan-mulla-
 
 ---
 
