@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm Furqan Mulla
 
 🚀 **DevOps & Cloud Enthusiast | Computer Science Engineering Student**  
@@ -29,7 +28,7 @@
 - Docker  
 - Kubernetes (Basics)  
 - Terraform  
-- CI/CD Concepts  
+- CI/CD (GitHub Actions)
 
 **Programming & Scripting**  
 - Python  
@@ -39,14 +38,20 @@
 
 ## 📂 Featured Projects
 
-- 🔹 **Devops-Intern-Elevatelabs**  
+- 🔹 **Event Management System**  
+  https://github.com/mullafurqan/Event-Management-.git  
+
+- 🔹 **DevOps Intern – Elevate Labs**  
   Consolidated DevOps internship tasks with full commit history preserved  
+  https://github.com/mullafurqan/Devops-Intern-Elevatelabs.git  
 
-- 🔹 **devops-node-demo**  
-  Node.js application containerized using Docker and Docker Compose  
+- 🔹 **Capstone Project**  
+  Academic capstone project showcasing end-to-end development  
+  https://github.com/mullafurqan/Capstone_project.git  
 
-- 🔹 **devops-python-demo**  
-  Python web application demonstrating DevOps-ready deployment  
+- 🔹 **CI/CD Pipeline with GitHub Actions & Docker**  
+  Automated CI/CD pipeline using GitHub Actions and Docker  
+  https://github.com/mullafurqan/CI-CD-Pipeline-with-GitHub-Actions-Docker.git  
 
 ---
 
@@ -66,11 +71,11 @@
 
 ---
 
-## 📌 Goals
+## 📌 Career Goals
 
 - Gain hands-on DevOps industry experience  
 - Build scalable cloud-native applications  
-- Contribute to open-source projects  
+- Work on real-world DevOps and cloud projects  
 - Grow as a professional DevOps engineer  
 
 ---
